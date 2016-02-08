@@ -6,7 +6,6 @@ oddNum:   .asciiz "Odd numbers from 1 to 50 are: \n"
 subSum:   .asciiz "Subtracting the sum of even/odd numbers: \n"
 printSum: .asciiz "The sum total of adding all of the numbers was: "
 space:    .asciiz " "
-comma:    .asciiz ", "
 newline:  .asciiz "\n"
 
 odd:      .word 0     #variable for odd number sum
